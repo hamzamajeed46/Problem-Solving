@@ -1,0 +1,1 @@
+This repository contains a variety of coding challenges designed to improve your problem-solving skills using Python. Each challenge includes a problem statement and a solution. It's an excellent resource for practice and learning.
