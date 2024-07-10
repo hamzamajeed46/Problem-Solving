@@ -12,6 +12,8 @@ One possible move is to take a pile of size 6
 
 Can you make a pile with exactly m
  gold nuggets using zero or more operations?
+
+ 
 Input: 
 The first line contains an integer t
  (1≤t≤1000
@@ -21,6 +23,7 @@ The only line of each test case contains two integers n
  and m
  (1≤n,m≤107
 ) — the starting and target pile sizes, respectively.
+
 
 Output: 
 For each test case, output "YES" if you can make a pile of size exactly m
