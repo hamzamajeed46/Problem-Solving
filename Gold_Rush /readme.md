@@ -15,6 +15,7 @@ Can you make a pile with exactly m
 
  
 Input: 
+
 The first line contains an integer t
  (1≤t≤1000
 ) — the number of test cases.
@@ -26,6 +27,7 @@ The only line of each test case contains two integers n
 
 
 Output: 
+
 For each test case, output "YES" if you can make a pile of size exactly m
 , and "NO" otherwise.
 
